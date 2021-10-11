@@ -106,7 +106,7 @@ namespace WebApiAutores.Controllers
         }
 
         /// <summary>
-        /// Borra un autor (Saludos desde azuredevops)
+        /// Borra un autor (Saludos desde azuredevops) 2
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
